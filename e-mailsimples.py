@@ -4,7 +4,7 @@ import smtplib #Biblioteca que permite o envio do e-mail.
 
 remetente = "seu-email@gmail.com"
 
-destinatario = "email-do-destinatario@gmail.com"
+destinatario = "email-do-destinatario@gmail.com" #Acredito que envia para qualquer e-mail, não testei.
 
 password = 'sua senha'
 
